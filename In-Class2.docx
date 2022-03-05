@@ -1,0 +1,12 @@
+Name: Keith Pham
+SID: 32507133
+
+The 2 best practices:
+    - Use Enum to classify the triangle type. As a result, we can avoid magic string
+    and minimize typo duing for testing.
+    - 
+
+Init test suite:
+    - Statement Coverage:
+    - Decision Converage: 
+    - Mutation Dectection Rate:
